@@ -1,0 +1,14 @@
+<!doctype html>
+
+<html lang="fr">
+    <head>
+      <meta charset="utf-8">
+      <title>Bamboo</title>
+      <link rel="stylesheet" href="">
+    </head>
+    
+    <body>
+        {% block menu %}{% endblock %}
+        {% block content %}{% endblock %}
+    </body>
+</html>
